@@ -1,0 +1,38 @@
+.main{
+    background-color: #004e96;
+    display: flex;
+    justify-content: center;
+    padding: 30px;
+    position: absolute;
+    /* height: 100%; */
+    width: 100%;
+}
+
+.box{
+    background-color: white;
+    padding: 20px;
+    border: 2px solid white;
+    border-radius: 10px;
+}
+
+.boxText{
+    font-size: 12px;
+}
+
+
+.inputBar{
+    width: 200px;
+}
+
+
+.loginButton{
+    background-color: #004e96;
+    color: white;
+    width: 200px;
+    height: 40px;
+    margin-top: 10px;
+}
+
+#userHist{
+    margin: 5px;
+}
